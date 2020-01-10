@@ -6,7 +6,7 @@ GEM
       rubyzip
     review-peg (0.2.2)
     rouge (2.2.0)
-    rubyzip (1.2.1)
+    rubyzip (2.0.0)
     sass (3.4.25)
 
 PLATFORMS
